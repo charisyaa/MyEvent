@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyEvent</string>
+    <string name="title_home">Upcoming</string>
+    <string name="title_dashboard">Finished</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_detail_home">Detail Event</string>
+    <string name="quota_format">Sisa kuota: %d</string>
+    <string name="register">Register</string>
+    <string name="quota">Quota</string>
+    <string name="Quota_Remaining">Sisa Kuota : %d</string>
+    <string name="begin_time">begin time</string>
+    <string name="Begin">Waktu : %s</string>
+    <string name="owner_name">owner name</string>
+    <string name="Owner">Penyelenggara : %s</string>
+    <string name="event_name">event name\n</string>
+    <string name="favorite">favorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title_setting">Setting</string>
+</resources>
